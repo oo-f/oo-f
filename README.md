@@ -24,7 +24,7 @@
   position: Myroom;  
 height: "6720px";
 display: male;   
-       background: frontEnd</>;
+      background: fullStack;
 color: #FFFFFF   
 }                   
 ```
