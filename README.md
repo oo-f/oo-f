@@ -23,7 +23,7 @@
  #oo-f {              
    position: Myroom;  
  height: "6720px";
- display: male;
+display: male; 
       background: fullStack;
  color: #FFFFFF   
  }                   
