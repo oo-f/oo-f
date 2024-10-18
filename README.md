@@ -20,13 +20,13 @@
 <div align="center">
   
 ```css
-#oo-f {              
-  position: Myroom;  
-height: "6720px";
-display: male;
-     background: fullStack;
-color: #FFFFFF   
-}                   
+ #oo-f {              
+   position: Myroom;  
+ height: "6720px";
+ display: male;
+      background: fullStack;
+ color: #FFFFFF   
+ }                   
 ```
 </div>
 
